@@ -1,2 +1,2 @@
 # holm-school-english-comments
-Comments for Tasks (in English)
+Comments for Sessions (in English)
